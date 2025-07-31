@@ -3,8 +3,6 @@
 
 This project presents a comprehensive exploratory data analysis (EDA) of hotel booking data. It uncovers valuable business insights related to customer behavior, cancellation trends, seasonal patterns, and booking preferences that can help improve decision-making in the hospitality sector.
 
-![hotel-banner](https://img.freepik.com/free-photo/hotel-luxury-bedroom-suite-resort_53876-138087.jpg)
-
 ---
 
 ## 📌 Objectives
@@ -18,7 +16,6 @@ This project presents a comprehensive exploratory data analysis (EDA) of hotel b
 
 ## 📊 Dataset Overview
 
-- **Source**: [Hotel Booking Demand Dataset](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
 - **Size**: ~32,000 rows
 - **Attributes**: Hotel type, lead time, arrival date, ADR (Average Daily Rate), country, market segment, special requests, and more.
 
@@ -37,11 +34,11 @@ This project presents a comprehensive exploratory data analysis (EDA) of hotel b
 
 ## 📈 Key Insights
 
-- **City hotels** have a significantly higher cancellation rate than **resort hotels**.
-- Most cancellations occur for bookings with longer **lead times**.
-- Bookings with **special requests** tend to have a lower cancellation rate.
-- **August** and **July** are peak months in terms of number of bookings.
-- **Portugal, UK, and France** are top contributing countries.
+- City hotels have a significantly higher cancellation rate than resort hotels.
+- Most cancellations occur for bookings with longer lead times.
+- Bookings with special requests tend to have a lower cancellation rate.
+- August and July are peak months in terms of number of bookings.
+- Portugal, UK, and France are top contributing countries.
 - Higher ADRs are generally associated with resort hotels in high season.
 
 ---
@@ -49,7 +46,7 @@ This project presents a comprehensive exploratory data analysis (EDA) of hotel b
 ## 📁 Project Structure
 
 ```
-Hotel_Booking_data_analysis/
+Hotel_booking_project/
 │
 ├── Hotel_Booking_data_analysis.ipynb   # Main notebook containing full EDA
 ├── README.md                           # Project documentation
@@ -62,8 +59,8 @@ Hotel_Booking_data_analysis/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Hotel_Booking_data_analysis.git
-   cd Hotel_Booking_data_analysis
+   git clone https://github.com/heyvishusri/Hotel_booking_project.git
+   cd Hotel_booking_project
    ```
 
 2. Install dependencies:
@@ -98,11 +95,3 @@ This project successfully demonstrates how data analytics can be applied in the 
 - Enhance customer satisfaction
 - Optimize marketing efforts
 - Forecast seasonal trends for better resource management
-
----
-
-## 👨‍💻 Author
-
-**Shan Singh**  
-Python Developer | Data Analyst  
-[LinkedIn](https://www.linkedin.com/) • [GitHub](https://github.com/) • [Portfolio](https://your-portfolio.com)
