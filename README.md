@@ -101,8 +101,4 @@ This project successfully demonstrates how data analytics can be applied in the 
 
 ---
 
-## 👨‍💻 Author
 
-**Shan Singh**  
-Python Developer | Data Analyst  
-[LinkedIn](https://www.linkedin.com/) • [GitHub](https://github.com/) • [Portfolio](https://your-portfolio.com)
